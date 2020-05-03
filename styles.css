@@ -22,13 +22,10 @@ input[type=number]::-webkit-outer-spin-button {
   -webkit-appearance: none;
 }
 
-
-
 h1 {
 	text-align: center;
 	font-size: 50px;
 }
-
 
 #main {
 	width: 50%;
